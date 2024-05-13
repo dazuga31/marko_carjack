@@ -1,6 +1,6 @@
 ## Getting Started
 
-Before starting the installation, make sure that you have the latest version of FiveM, QBcore, OxLib installed - You will find links to them below.
+Before starting the installation, make sure that you have the latest version of FiveM, QBcore or ESX, OxLib installed - You will find links to them below.
 
 ## Installation and preparation.
 
